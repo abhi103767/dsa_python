@@ -2,10 +2,6 @@ nums = [5]
 import math;
 
 # binary search apply on sorted array;
-
-
-
-
 def search(nums,target):
     left = 0;
     right = len(nums) -1; 
